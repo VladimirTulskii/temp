@@ -1,0 +1,16 @@
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\FilmorateApplication.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\storage\InMemoryFilmStorage.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\exception\InternalException.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\controller\ErrorHandler.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\exception\ObjectNotFoundException.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\controller\FilmController.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\model\User.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\service\UserService.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\storage\UserStorage.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\storage\FilmStorage.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\service\FilmService.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\config\SwaggerConfig.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\controller\UserController.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\model\Film.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\storage\InMemoryUserStorage.java
+C:\Users\vtuls\dev\java-filmorate\src\main\java\ru\yandex\practicum\filmorate\exception\ValidationException.java

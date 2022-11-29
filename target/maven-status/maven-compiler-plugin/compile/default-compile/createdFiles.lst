@@ -1,0 +1,16 @@
+ru\yandex\practicum\filmorate\exception\InternalException.class
+ru\yandex\practicum\filmorate\service\FilmService.class
+ru\yandex\practicum\filmorate\model\User.class
+ru\yandex\practicum\filmorate\service\UserService.class
+ru\yandex\practicum\filmorate\storage\InMemoryUserStorage.class
+ru\yandex\practicum\filmorate\controller\FilmController.class
+ru\yandex\practicum\filmorate\model\Film.class
+ru\yandex\practicum\filmorate\storage\InMemoryFilmStorage.class
+ru\yandex\practicum\filmorate\config\SwaggerConfig.class
+ru\yandex\practicum\filmorate\storage\UserStorage.class
+ru\yandex\practicum\filmorate\controller\ErrorHandler.class
+ru\yandex\practicum\filmorate\storage\FilmStorage.class
+ru\yandex\practicum\filmorate\controller\UserController.class
+ru\yandex\practicum\filmorate\FilmorateApplication.class
+ru\yandex\practicum\filmorate\exception\ValidationException.class
+ru\yandex\practicum\filmorate\exception\ObjectNotFoundException.class
